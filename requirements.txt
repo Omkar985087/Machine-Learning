@@ -1,0 +1,15 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+bs4
+flask
+scikit-learn
+imblearn
+catboost
+xgboost
+dill
+keras
+tensorflow
